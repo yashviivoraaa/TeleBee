@@ -1,4 +1,4 @@
-# ZENSU OTT MERN
+# TeleBee
 > The project for MERN course.
 
 <h2 id="table-of-contents"> Table of Contents</h2>
